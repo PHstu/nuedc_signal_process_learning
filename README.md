@@ -13,7 +13,7 @@
 - [运放电路设计资料](#section4)
 - [板级开关电源设计资料](#section5)
 - [测量系统入门练习资料](#section6)
-- [中高速PCB设计经验](#section7)
+- [低速&中速PCB设计打样经验](#section7)
 - [FPGA基础入门 基于EBAZ矿板](#section8)
 
 ## 基本建议<a id="section1"></a>
@@ -82,7 +82,7 @@ J-LINK和ST-LINK都可以用来调试STM32。J-LINK还可以调试其他ARM MCU�
 * [资料指引与练习建议(文档暂未完成)](https://github.com/PHstu/nuedc_signal_process_learning/blob/main/STM32%E6%95%B0%E6%8D%AE%E6%94%B6%E5%8F%91%E7%B3%BB%E7%BB%9F_%E7%BB%83%E4%B9%A0%E8%B5%84%E6%96%99/%E8%B5%84%E6%96%99%E6%8C%87%E5%BC%95%E4%B8%8E%E7%BB%83%E4%B9%A0%E5%BB%BA%E8%AE%AE.md)
 * [PDF资料参考文件夹](https://github.com/PHstu/nuedc_signal_process_learning/blob/main/STM32%E6%95%B0%E6%8D%AE%E6%94%B6%E5%8F%91%E7%B3%BB%E7%BB%9F_%E7%BB%83%E4%B9%A0%E8%B5%84%E6%96%99/)
 * [回到目录](#section0)
-## 中高速PCB设计经验<a id="section7"></a>
+## 低速&中速PCB设计打样经验<a id="section7"></a>
 * [资料指引与练习建议(文档暂未完成)](https://github.com/PHstu/nuedc_signal_process_learning/blob/main/PCB%E8%AE%BE%E8%AE%A1/PCB_%E8%B5%84%E6%96%99%E6%8C%87%E5%BC%95%26%E7%BB%83%E4%B9%A0%E5%BB%BA%E8%AE%AE.md)
 * [PDF资料参考文件夹](https://github.com/PHstu/nuedc_signal_process_learning/blob/main/PCB%E8%AE%BE%E8%AE%A1/)
 * [回到目录](#section0)

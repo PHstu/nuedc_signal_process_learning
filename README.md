@@ -84,6 +84,7 @@ J-LINK和ST-LINK都可以用来调试STM32。J-LINK还可以调试其他ARM MCU�
 * [回到目录](#section0)
 ## 低速&中速PCB设计打样经验<a id="section7"></a>
 * [资料指引与练习建议(文档暂未完成)](https://github.com/PHstu/nuedc_signal_process_learning/blob/main/PCB%E8%AE%BE%E8%AE%A1/PCB_%E8%B5%84%E6%96%99%E6%8C%87%E5%BC%95%26%E7%BB%83%E4%B9%A0%E5%BB%BA%E8%AE%AE.md)
+* [请大家焊接、测试前打印这份排查清单，对照执行](https://github.com/PHstu/nuedc_signal_process_learning/blob/main/PCB%E8%AE%BE%E8%AE%A1/%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%B5%E5%AD%90%E8%AE%BE%E8%AE%A1%E5%A4%A7%E8%B5%9B%20%E7%A1%AC%E4%BB%B6%E7%84%8A%E6%8E%A5%E8%B0%83%E8%AF%95%E7%A1%AE%E8%AE%A4%E6%B8%85%E5%8D%95.pdf)
 * [PDF资料参考文件夹](https://github.com/PHstu/nuedc_signal_process_learning/blob/main/PCB%E8%AE%BE%E8%AE%A1/)
 * [回到目录](#section0)
 ## FPGA基础入门 基于EBAZ矿板<a id="section8"></a>
